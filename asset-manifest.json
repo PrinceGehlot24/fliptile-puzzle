@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fliptile-puzzle/static/css/main.dbc060c9.css",
+    "main.js": "/fliptile-puzzle/static/js/main.eb5082e5.js",
+    "static/js/787.e94b58cd.chunk.js": "/fliptile-puzzle/static/js/787.e94b58cd.chunk.js",
+    "static/media/img1.png": "/fliptile-puzzle/static/media/img1.13093c86fda868e6f0e3.png",
+    "static/media/img4.png": "/fliptile-puzzle/static/media/img4.299480564e6c8d1a51c4.png",
+    "static/media/img8.png": "/fliptile-puzzle/static/media/img8.e153867ba7b858a2a371.png",
+    "static/media/img10.png": "/fliptile-puzzle/static/media/img10.79f42ca033e3ea2d3d45.png",
+    "static/media/img3.png": "/fliptile-puzzle/static/media/img3.8bd98f888e1a6d06ef3d.png",
+    "static/media/img5.png": "/fliptile-puzzle/static/media/img5.f4f2f7aab5f8a3d4f56c.png",
+    "static/media/img2.png": "/fliptile-puzzle/static/media/img2.f59e795f5ea5e367e8d9.png",
+    "static/media/img9.png": "/fliptile-puzzle/static/media/img9.29c8a17a4a8ce924d01f.png",
+    "static/media/img16.png": "/fliptile-puzzle/static/media/img16.70d06e41200c8b5f7dcf.png",
+    "static/media/img7.png": "/fliptile-puzzle/static/media/img7.5d2c25f3fef3fb53f3e2.png",
+    "static/media/img12.png": "/fliptile-puzzle/static/media/img12.47af714afab6e76fc5e3.png",
+    "static/media/img0.png": "/fliptile-puzzle/static/media/img0.b3f4079c7c5901a1ce95.png",
+    "index.html": "/fliptile-puzzle/index.html",
+    "main.dbc060c9.css.map": "/fliptile-puzzle/static/css/main.dbc060c9.css.map",
+    "main.eb5082e5.js.map": "/fliptile-puzzle/static/js/main.eb5082e5.js.map",
+    "787.e94b58cd.chunk.js.map": "/fliptile-puzzle/static/js/787.e94b58cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc060c9.css",
+    "static/js/main.eb5082e5.js"
+  ]
+}
